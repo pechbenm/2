@@ -10,6 +10,13 @@ Nunit тесты
 
 Xunit тесты
 
+
+
+
+
+
+
+
 <img width="518" height="599" alt="image" src="https://github.com/user-attachments/assets/1552f092-28dc-4205-91d6-912509e4fe91" />
 
 
