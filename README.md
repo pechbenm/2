@@ -12,6 +12,10 @@ Xunit тесты
 
 <img width="518" height="599" alt="image" src="https://github.com/user-attachments/assets/1552f092-28dc-4205-91d6-912509e4fe91" />
 
+
+
+
+
 <img width="451" height="630" alt="image" src="https://github.com/user-attachments/assets/a6634b7f-c27a-4dd8-b0a5-4eff0670e9f3" />
 <img width="518" height="598" alt="image" src="https://github.com/user-attachments/assets/ed1e93d3-ffbb-488b-bb79-e826771ab63c" />
 <img width="823" height="297" alt="image" src="https://github.com/user-attachments/assets/9a356b5a-d4ee-4879-8883-746bd25befee" />
