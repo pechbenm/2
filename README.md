@@ -1,3 +1,5 @@
+Проект, на котором будет осуществляться тестирование - это менеджер задач.
+
 Nunit тесты
 
 <img width="686" height="562" alt="image" src="https://github.com/user-attachments/assets/992b6a2d-22ed-4497-8460-05f1423a4617" />
