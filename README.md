@@ -1,4 +1,10 @@
 Проект, на котором будет осуществляться тестирование - это менеджер задач.
+<img width="559" height="644" alt="image" src="https://github.com/user-attachments/assets/461917a9-88b3-4afe-9875-4c40561f905a" />
+<img width="556" height="540" alt="image" src="https://github.com/user-attachments/assets/10249176-61ac-45db-b3e1-9070fd6a175e" />
+<img width="731" height="604" alt="image" src="https://github.com/user-attachments/assets/e37400e5-5a47-4730-a652-d7eb8c2cfc95" />
+<img width="554" height="616" alt="image" src="https://github.com/user-attachments/assets/566b529e-6150-4623-92b9-494ccf2dc387" />
+<img width="489" height="281" alt="image" src="https://github.com/user-attachments/assets/5eb8e238-e8b2-455d-8c50-728ecaac9069" />
+
 
 Nunit тесты
 
