@@ -1,34 +1,3 @@
-Проект, на котором будет осуществляться тестирование - это менеджер задач.
-<img width="559" height="644" alt="image" src="https://github.com/user-attachments/assets/461917a9-88b3-4afe-9875-4c40561f905a" />
-<img width="556" height="540" alt="image" src="https://github.com/user-attachments/assets/10249176-61ac-45db-b3e1-9070fd6a175e" />
-<img width="731" height="604" alt="image" src="https://github.com/user-attachments/assets/e37400e5-5a47-4730-a652-d7eb8c2cfc95" />
-<img width="554" height="616" alt="image" src="https://github.com/user-attachments/assets/566b529e-6150-4623-92b9-494ccf2dc387" />
-<img width="489" height="281" alt="image" src="https://github.com/user-attachments/assets/5eb8e238-e8b2-455d-8c50-728ecaac9069" />
+Результат тестов.
+<img width="889" height="498" alt="image" src="https://github.com/user-attachments/assets/0c473125-cd57-444d-b185-ce5a6bc7e7b2" />
 
-
-Nunit тесты
-
-<img width="686" height="562" alt="image" src="https://github.com/user-attachments/assets/992b6a2d-22ed-4497-8460-05f1423a4617" />
-<img width="585" height="644" alt="image" src="https://github.com/user-attachments/assets/7336c1c0-211f-468e-b89e-be6a29417477" />
-<img width="616" height="562" alt="image" src="https://github.com/user-attachments/assets/e1c82aad-d97d-4bb1-8938-b90f33d112f2" />
-<img width="606" height="505" alt="image" src="https://github.com/user-attachments/assets/d7e66e36-1614-44e4-a5f9-fb8832bc6d98" />
-
-
-Xunit тесты
-
-
-
-
-
-
-
-
-<img width="518" height="599" alt="image" src="https://github.com/user-attachments/assets/1552f092-28dc-4205-91d6-912509e4fe91" />
-
-
-
-
-
-<img width="451" height="630" alt="image" src="https://github.com/user-attachments/assets/a6634b7f-c27a-4dd8-b0a5-4eff0670e9f3" />
-<img width="518" height="598" alt="image" src="https://github.com/user-attachments/assets/ed1e93d3-ffbb-488b-bb79-e826771ab63c" />
-<img width="823" height="297" alt="image" src="https://github.com/user-attachments/assets/9a356b5a-d4ee-4879-8883-746bd25befee" />
